@@ -11,3 +11,10 @@ if(sum==k):
     print("kaprekar number")
 else:
     print("not kaprekar number")
+
+    
+    
+    
+  '''  input=45
+    45**2=2025
+    20+25=45(kaprekar number)'''
